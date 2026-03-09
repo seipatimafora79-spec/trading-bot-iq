@@ -1,6 +1,7 @@
-# Main Trading Bot Script
+# IQ Options Trading Bot
 
-# TODO: Implement trading logic here
+This is the main script for the IQ Options Trading Bot that manages signal generation and trade execution.
 
-if __name__ == '__main__':
-    pass
+# Main Code
+
+# Your implementation goes here.
